@@ -1,9 +1,9 @@
 import React from 'react';
-
+import Header from '../../components/header/index'
 // import { Container } from './styles';
 
 export default function profile() {
   return (
-    <h1>profile</h1>
+    <Header />
   );
 }
