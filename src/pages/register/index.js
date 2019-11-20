@@ -105,7 +105,6 @@ export default function SignUp() {
             
           </Grid>
           <Button
-            type="submit"
             fullWidth
             variant="contained"
             color="primary"
